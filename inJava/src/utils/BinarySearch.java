@@ -1,4 +1,4 @@
-package utilities;
+package utils;
 
 public class BinarySearch {
 	static int binarySearch(int arr[], int x)
